@@ -1,0 +1,14 @@
+.wrapper{
+  display: flex;
+  align-items:center;
+  justify-content: space-around;
+}
+.left img{
+  width: 300px;
+}
+.right div{
+  width: 100px;
+  display: flex;
+  align-items:center;
+  justify-content: space-between;
+}

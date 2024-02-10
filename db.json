@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "salim",
+      "email": "salim@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "gani",
+      "email": "gani@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Karim",
+      "email": "fhf@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "bobur",
+      "email": "bobur@gmail.com"
+    },
+    {
+      "id": "7",
+      "name": "mirzohid",
+      "email": "mirzohid@gmail.com"
+    },
+    {
+      "id": "8",
+      "name": "sardor",
+      "email": "sardor@gmail.com"
+    },
+    {
+      "id": "10",
+      "name": "umar",
+      "email": "umar@gmail.com"
+    }
+  ]
+}
