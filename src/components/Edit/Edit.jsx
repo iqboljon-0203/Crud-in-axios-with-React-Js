@@ -7,7 +7,7 @@ const Edit = () => {
     const navigate=useNavigate();
     useEffect(()=>{
         axios.get("http://localhost:3030/users/"+id).then((res)=>setData(res.data)).catch((err)=>console.log(err))
-    },[])
+    },[id])
     const handleSumbit=(e)=>{
         e.preventDefault();
         axios.put("http://localhost:3030/users/"+id,data).then((res)=>{
